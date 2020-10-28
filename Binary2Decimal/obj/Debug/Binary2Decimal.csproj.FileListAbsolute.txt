@@ -1,0 +1,7 @@
+C:\Users\konst\source\repos\Binary2Decimal\Binary2Decimal\bin\Debug\Binary2Decimal.exe.config
+C:\Users\konst\source\repos\Binary2Decimal\Binary2Decimal\bin\Debug\Binary2Decimal.exe
+C:\Users\konst\source\repos\Binary2Decimal\Binary2Decimal\bin\Debug\Binary2Decimal.pdb
+C:\Users\konst\source\repos\Binary2Decimal\Binary2Decimal\obj\Debug\Binary2Decimal.csprojAssemblyReference.cache
+C:\Users\konst\source\repos\Binary2Decimal\Binary2Decimal\obj\Debug\Binary2Decimal.csproj.CoreCompileInputs.cache
+C:\Users\konst\source\repos\Binary2Decimal\Binary2Decimal\obj\Debug\Binary2Decimal.exe
+C:\Users\konst\source\repos\Binary2Decimal\Binary2Decimal\obj\Debug\Binary2Decimal.pdb
